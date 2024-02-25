@@ -1,5 +1,4 @@
 ### Hey there. I see you found my profile. Make yourself at home... 👋
-### I'm Brunno Kenzo, an international student passionate about software development and graduating in mid-2024.
 ### I'm here to expand my knowledge, collaborate on innovative projects, and make my mark on the tech world. 🚀
 ##
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnokenzokillaruna&show_icons=true&theme=aura"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnokenzokillaruna&theme=aura"/> 
