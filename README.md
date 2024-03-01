@@ -1,5 +1,5 @@
 <center>
-<img alt="Banner Image" src="https://github.com/brunnokenzokillaruna/Assets/blob/main/Brunno%20Kenzo.png"> 
+<img alt="Banner Image" src="https://github.com/brunnokenzokillaruna/assets/blob/main/Brunno%20Kenzo.png"> 
 </center>
 
 --- 
