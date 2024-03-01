@@ -41,9 +41,9 @@
 <br />
 
 ## Stats
-<div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=brunnokenzokillaruna&show_icons=true&theme=aura"/>
-  &nbsp;
-  &nbsp;
-  <img style="height: auto; width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnokenzokillaruna&theme=aura"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunnokenzokillaruna&rank_icon=github&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnokenzokillaruna&layout=donut&theme=vue-dark" />
+</a>
